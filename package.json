@@ -1,6 +1,6 @@
 {
   "name": "flashmock",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A zero-config, file-based API mocking tool for local development.",
   "main": "dist/index.js",
   "bin": {

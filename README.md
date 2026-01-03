@@ -47,7 +47,7 @@ FlashMock is an open-source CLI tool that enables developers to quickly and easi
 
 1.  **Projeyi Klonlayın / Clone the Project:**
     ```bash
-    git clone https://github.com/your-username/flashmock.git
+    git clone https://github.com/kubilaycagri/flashmock
     cd flashmock
     ```
     (Henüz GitHub'da değilse bu adımı atlayın / Skip this step if not yet on GitHub)
