@@ -1,0 +1,5 @@
+{
+  "orderId": "xyz-123",
+  "status": "pending",
+  "message": "Order received"
+}

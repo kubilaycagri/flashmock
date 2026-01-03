@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlashMock UI</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app">
+        <header>
+            <h1>⚡️ FlashMock UI</h1>
+        </header>
+        <main>
+            <div id="sidebar">
+                <h2>Templates</h2>
+                <div id="template-list"></div>
+                <h2>Mocks Explorer</h2>
+                <div id="file-tree"></div>
+                 <button id="add-file-btn">+ New File</button>
+                 <button id="add-folder-btn">+ New Folder</button>
+            </div>
+            <div id="editor-container">
+                <div id="editor-path"></div>
+                <textarea id="editor" placeholder="Select a file to edit..."></textarea>
+                <button id="save-btn">Save</button>
+            </div>
+        </main>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
